@@ -160,15 +160,15 @@ position: relative;
 
 .left-plant{
   position: absolute;
-  right: 0px;
-  top: 0px;
+  right: 30px;
+  top: 30px;
 }
 
 
 .right-plant{
   position: absolute;
-  left: 0px;
-  top: 0px;
+  left: 30px;
+  top: 30px;
 }
 
 
