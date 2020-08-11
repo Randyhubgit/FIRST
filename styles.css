@@ -200,8 +200,11 @@ position: relative;
   top: 600px;
 }
 
-
-
+.mail{
+  position: absolute;
+  right: 0px;
+  top: 300px;
+}
 
 
 .skill-img{
