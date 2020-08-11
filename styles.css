@@ -104,7 +104,7 @@ position: relative;
 } 
 
 .accomplishments{
-	background: url(StripedBlue.jpg) no-repeat center fixed; 
+	background: url(accomplishments.png) no-repeat center fixed; 
         background-size: cover;
         position: relative;
         padding-top:  20px;
