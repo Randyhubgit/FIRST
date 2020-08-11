@@ -10,8 +10,8 @@ h1{
 
   color: #F8F8FF;
   font-size: 3.625rem; /* 16px = 100% = 1em */
-  margin-top: 0px ;
-  margin-bottom: 0px ;
+  margin-top: 20px ;
+  margin-bottom: 20px ;
 	font-family: 'Sacramento', cursive;
 
 }
@@ -55,8 +55,8 @@ a{
   background: url(StripedBlue27computerclock.png) no-repeat center fixed; 
       background-size: cover;
   position: relative;
-  padding-top: 10px;
-	padding-bottom: 10px;
+  padding-top: 20px;
+	padding-bottom: 20px;
    border-bottom: solid #00002c 6px;
 ;
 	
@@ -75,8 +75,8 @@ background: url(StripedBlue25.jpg) no-repeat center fixed;
 
 
   position: relative;
-  padding-top: 10px;
-	padding-bottom: 10px;
+  padding-top: 20px;
+	padding-bottom: 20px;
 	   border-bottom: solid #00002c 6px;
 }
 
@@ -85,8 +85,8 @@ background: url(StripedBlue25.jpg) no-repeat center fixed;
  background: url(StripedBlue26.jpg) no-repeat center fixed; 
       background-size: cover;
 position: relative;
-  padding-top: 10px;
-	padding-bottom: 10px;
+  padding-top: 20px;
+	padding-bottom: 20px;
 	   border-bottom: solid #00002c 6px;
 
 }
@@ -97,8 +97,8 @@ position: relative;
 	 background: url(StripedBlue.jpg) no-repeat center fixed; 
       background-size: cover;
         position: relative;
-        padding-top: 10px;
-	padding-bottom: 10px;
+        padding-top: 20px;
+	padding-bottom: 20px;
 	  border-bottom: solid #00002c 6px;
 
 } 
@@ -107,8 +107,8 @@ position: relative;
 	background: url(StripedBlue.jpg) no-repeat center fixed; 
         background-size: cover;
         position: relative;
-        padding-top: 10px;
-	padding-bottom: 10px;
+        padding-top:  20px;
+	padding-bottom: 20px;
 	border-bottom: solid #00002c 6px;
 } 
 
